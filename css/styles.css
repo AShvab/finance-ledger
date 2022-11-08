@@ -123,14 +123,20 @@ body {
 }
 
 .hero-text {
-    /* font-weight: 400; */
     font-size: 22px;
     line-height: 1.67;
     color: #E9E9E9;
+    max-width: 459px;
+    margin: 0 auto; 
 }
+
 .hero-angle {
     display: inline-block;
 }
 
 .hero-link {
+    display: block;
+  
+    max-width: 165px;
+    margin: 0 auto;
 }
